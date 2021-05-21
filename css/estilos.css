@@ -51,11 +51,14 @@ body
     padding: 1em;
 }
 
-#footer
+
+#footer 
 {
- color: white;
- text-align: center;
- background-color: #777;
- padding: 0.05em;
- 
+color: white;
+background: #777;
+text-align: center;
+width: 70%;
+margin: 0 auto;
+padding: 0.5em;
+
 }
